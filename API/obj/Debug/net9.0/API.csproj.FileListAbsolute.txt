@@ -175,3 +175,4 @@ D:\.NET PROJECTS\JWT RBAC\API\obj\Debug\net9.0\refint\API.dll
 D:\.NET PROJECTS\JWT RBAC\API\obj\Debug\net9.0\API.pdb
 D:\.NET PROJECTS\JWT RBAC\API\obj\Debug\net9.0\API.genruntimeconfig.cache
 D:\.NET PROJECTS\JWT RBAC\API\obj\Debug\net9.0\ref\API.dll
+D:\.NET PROJECTS\JWT RBAC\API\obj\Debug\net9.0\API.sourcelink.json

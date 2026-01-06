@@ -1,4 +1,5 @@
 using API;
+using API.Middlewares;
 using Microsoft.OpenApi;
 using Microsoft.OpenApi.Models;
 using System.Text.Json.Serialization;
@@ -53,6 +54,9 @@ builder.Services.AddSwaggerGen(options =>
 var app = builder.Build();
 
 await app.Services.AddRoleServicesAsync();
+
+
+app.UseMiddleware<GlobalExceptionMiddleware>();
 
 if (app.Environment.IsDevelopment())
 {

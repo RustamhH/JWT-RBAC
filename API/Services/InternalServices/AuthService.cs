@@ -74,6 +74,7 @@ namespace API.Services.InternalServices
             var roles = (await _userManager.GetRolesAsync(user)).ToList();
             user.LastLoginTime= DateTime.UtcNow;
             await _userManager.UpdateAsync(user);
+            
 
             return Result<LoginVM>.Success(new LoginVM() { AccessToken = accessToken, Roles = roles, RefreshToken = refreshtoken });
         }
