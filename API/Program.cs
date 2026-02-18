@@ -1,8 +1,10 @@
 using API;
 using API.Middlewares;
+using Microsoft.AspNetCore.RateLimiting;
 using Microsoft.OpenApi;
 using Microsoft.OpenApi.Models;
 using System.Text.Json.Serialization;
+using System.Threading.RateLimiting;
 
 
 
@@ -18,6 +20,25 @@ builder.Services
 builder.Services.AddPersistenceRegister();
 builder.AddInfrastructureRegister();
 builder.Services.AddHttpContextAccessor();
+
+
+builder.Services.AddRateLimiter(options =>
+{
+    options.RejectionStatusCode = StatusCodes.Status429TooManyRequests;
+
+    options.AddPolicy("ContactFormPolicy", httpContext =>
+        RateLimitPartition.GetFixedWindowLimiter(
+            partitionKey: httpContext.Connection.RemoteIpAddress?.ToString() ?? "unknown",
+            factory: _ => new FixedWindowRateLimiterOptions
+            {
+                PermitLimit = 3,                 
+                Window = TimeSpan.FromMinutes(1),
+                QueueLimit = 0,
+                QueueProcessingOrder = QueueProcessingOrder.OldestFirst
+            }));
+});
+
+
 
 
 // Swagger
@@ -56,6 +77,10 @@ var app = builder.Build();
 await app.Services.AddRoleServicesAsync();
 
 
+
+
+
+
 app.UseMiddleware<GlobalExceptionMiddleware>();
 
 if (app.Environment.IsDevelopment())
@@ -66,6 +91,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseRouting(); 
+app.UseRateLimiter();
 
 app.UseAuthentication(); 
 app.UseAuthorization(); 

@@ -1,11 +1,9 @@
-﻿using API.Context;
-using API.DTOs;
+﻿using API.DTOs;
 using API.Models;
-using Azure;
+using API.Services.ExternalServices;
+using Azure.Core;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using System.Diagnostics.CodeAnalysis;
-using System.Reflection.Metadata.Ecma335;
 
 namespace API.Services.InternalServices
 {
@@ -14,12 +12,13 @@ namespace API.Services.InternalServices
         private readonly UserManager<User> _userManager;
         private readonly AuthService _authService;
         private readonly TokenService _tokenService;
-
-        public UserService(UserManager<User> userManager, AuthService authservice,TokenService tokenService)
+        private readonly EmailService _emailService;
+        public UserService(UserManager<User> userManager, AuthService authservice,TokenService tokenService,EmailService emailService)
         {
             _userManager = userManager;
             _authService = authservice;
             _tokenService = tokenService;
+            _emailService = emailService;
         }
 
         // --- Admin Level Methods ---
@@ -95,6 +94,26 @@ namespace API.Services.InternalServices
             var existingUser = await _userManager.FindByNameAsync(username);
             return existingUser is not null ? Result<User>.Success(existingUser) :
                     Result<User>.Failure(new Error("NOT_FOUND", "This user does not exist"));
+        }
+
+        public async Task<Result> SendContactEmail(SendContactEmailDTO sendContactEmailDTO)
+        {
+            string message = sendContactEmailDTO.Message + $"<br><br><br><h3>Contact submitted by: {sendContactEmailDTO.Email}";
+
+            var adminUsers = await _userManager.GetUsersInRoleAsync("Admin");
+            _ = Task.Run(async () =>
+            {
+                foreach (var item in adminUsers)
+                {
+                    await _emailService.sendMailAsync(item.Email!, sendContactEmailDTO.Subject, message);
+                }
+                await _emailService.sendMailAsync(sendContactEmailDTO.Email, "We received your message",
+               $"Hi {sendContactEmailDTO.Name},<br/>We received your message and will respond soon.");
+            });
+           
+
+            return Result.Success();
+            
         }
     }
 }

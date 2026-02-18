@@ -301,6 +301,37 @@
           }
         }
       }
+    },
+    "/api/User/SendContactEmail": {
+      "post": {
+        "tags": [
+          "User"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/SendContactEmailDTO"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/SendContactEmailDTO"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/SendContactEmailDTO"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
     }
   },
   "components": {
@@ -371,6 +402,37 @@
           "confirmPassword": {
             "type": "string",
             "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "SendContactEmailDTO": {
+        "required": [
+          "email",
+          "message",
+          "subject"
+        ],
+        "type": "object",
+        "properties": {
+          "name": {
+            "maxLength": 100,
+            "type": "string",
+            "nullable": true
+          },
+          "email": {
+            "minLength": 1,
+            "type": "string",
+            "format": "email"
+          },
+          "subject": {
+            "maxLength": 150,
+            "minLength": 1,
+            "type": "string"
+          },
+          "message": {
+            "maxLength": 2000,
+            "minLength": 1,
+            "type": "string"
           }
         },
         "additionalProperties": false

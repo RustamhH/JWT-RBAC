@@ -3,6 +3,7 @@ using API.Models;
 using API.Services.InternalServices;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.RateLimiting;
 using System.Security.Claims;
 
 namespace API.Controllers
@@ -37,5 +38,17 @@ namespace API.Controllers
            }
            return BadRequest("You can only update your own profile.");
         }
+
+
+        [HttpPost("SendContactEmail")]
+        [EnableRateLimiting("ContactFormPolicy")]
+
+        public async Task<IActionResult> SendContactEmail([FromBody] SendContactEmailDTO sendContactEmailDTO)
+        {
+            var result=await _userService.SendContactEmail(sendContactEmailDTO);
+            return result.IsSuccess ? Ok() : BadRequest(result.Error);
+        }
+
+
     }
 }

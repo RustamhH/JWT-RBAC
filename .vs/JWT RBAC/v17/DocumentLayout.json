@@ -1,109 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\.NET PROJECTS\\JWT RBAC\\",
+  "WorkspaceRootPath": "D:\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\.net projects\\jwt rbac\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\.net projects\\jwt rbac\\api\\services\\internalservices\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\services\\internalservices\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\.net projects\\jwt rbac\\api\\services\\internalservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\services\\internalservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\.net projects\\jwt rbac\\api\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\coding proyektler\\.net projects\\jwt rbac\\api\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\.net projects\\jwt rbac\\api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\.net projects\\jwt rbac\\api\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\.net projects\\jwt rbac\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\.net projects\\jwt rbac\\api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\.net projects\\jwt rbac\\api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\.net projects\\jwt rbac\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\coding proyektler\\.net projects\\jwt rbac\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/RUSTAMH_SQLEXPRESS/JWTRBAC/True/SqlTable/dbo.AspNetUserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\coding proyektler\\.net projects\\jwt rbac\\api\\services\\internalservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\services\\internalservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\.net projects\\jwt rbac\\api\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\coding proyektler\\.net projects\\jwt rbac\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\.net projects\\jwt rbac\\api\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\.net projects\\jwt rbac\\api\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\.net projects\\jwt rbac\\api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\.net projects\\jwt rbac\\api\\services\\internalservices\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\services\\internalservices\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\.net projects\\jwt rbac\\api\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\.net projects\\jwt rbac\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\.net projects\\jwt rbac\\api\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\.net projects\\jwt rbac\\api\\models\\tokencredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\models\\tokencredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\.net projects\\jwt rbac\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\.net projects\\jwt rbac\\api\\services\\externalservices\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\coding proyektler\\.net projects\\jwt rbac\\api\\services\\externalservices\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\services\\externalservices\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\.net projects\\jwt rbac\\api\\models\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\models\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\.net projects\\jwt rbac\\api\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\.net projects\\jwt rbac\\api\\migrations\\20260102174836_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\migrations\\20260102174836_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\.net projects\\jwt rbac\\api\\migrations\\20260105155228_auditandadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\migrations\\20260105155228_auditandadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\coding proyektler\\.net projects\\jwt rbac\\api\\dtos\\sendcontactemaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\dtos\\sendcontactemaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -113,8 +34,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\API\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "API\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\API\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "API\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwE0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T11:07:13.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T10:41:22.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SendContactEmailDTO.cs",
+              "DocumentMoniker": "D:\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\API\\DTOs\\SendContactEmailDTO.cs",
+              "RelativeDocumentMoniker": "API\\DTOs\\SendContactEmailDTO.cs",
+              "ToolTip": "D:\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\API\\DTOs\\SendContactEmailDTO.cs",
+              "RelativeToolTip": "API\\DTOs\\SendContactEmailDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T10:35:48.937Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -132,321 +92,67 @@
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GlobalExceptionMiddleware.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Middlewares\\GlobalExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "API\\Middlewares\\GlobalExceptionMiddleware.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Middlewares\\GlobalExceptionMiddleware.cs",
-              "RelativeToolTip": "API\\Middlewares\\GlobalExceptionMiddleware.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\API\\Services\\ExternalServices\\EmailService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\ExternalServices\\EmailService.cs",
+              "ToolTip": "D:\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\API\\Services\\ExternalServices\\EmailService.cs",
+              "RelativeToolTip": "API\\Services\\ExternalServices\\EmailService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADgvysAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T06:26:09.527Z",
+              "WhenOpened": "2026-02-18T09:48:15.237Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Services\\InternalServices\\UserService.cs",
+              "DocumentMoniker": "D:\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\API\\Services\\InternalServices\\UserService.cs",
               "RelativeDocumentMoniker": "API\\Services\\InternalServices\\UserService.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Services\\InternalServices\\UserService.cs",
+              "ToolTip": "D:\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\API\\Services\\InternalServices\\UserService.cs",
               "RelativeToolTip": "API\\Services\\InternalServices\\UserService.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAgwDsAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwBQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-02T10:55:29.052Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Program.cs",
+              "DocumentMoniker": "D:\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Program.cs",
+              "ToolTip": "D:\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\API\\Program.cs",
               "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAADoAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAF0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-02T09:58:23.479Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\JWT RBAC\\API\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "API\\DependencyInjection.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\JWT RBAC\\API\\DependencyInjection.cs",
-              "RelativeToolTip": "API\\DependencyInjection.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAowDgAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T12:21:36.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "API\\Context\\AppDbContext.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "API\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCoAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T10:54:56.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Services\\InternalServices\\AuthService.cs",
-              "RelativeDocumentMoniker": "API\\Services\\InternalServices\\AuthService.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Services\\InternalServices\\AuthService.cs",
-              "RelativeToolTip": "API\\Services\\InternalServices\\AuthService.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAowEwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T14:49:30.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAgwDsAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T11:31:27.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Models\\User.cs",
-              "RelativeDocumentMoniker": "API\\Models\\User.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Models\\User.cs",
-              "RelativeToolTip": "API\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T16:28:18.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\AdminController.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "API\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBsAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T11:31:59.236Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Controllers\\UserController.cs",
-              "RelativeToolTip": "API\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T11:31:40.936Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "RefreshToken.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Models\\RefreshToken.cs",
-              "RelativeDocumentMoniker": "API\\Models\\RefreshToken.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Models\\RefreshToken.cs",
-              "RelativeToolTip": "API\\Models\\RefreshToken.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T11:50:10.531Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AuditLog.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Models\\AuditLog.cs",
-              "RelativeDocumentMoniker": "API\\Models\\AuditLog.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Models\\AuditLog.cs",
-              "RelativeToolTip": "API\\Models\\AuditLog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T15:23:13.528Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "20260105155228_AuditandAdmin.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Migrations\\20260105155228_AuditandAdmin.cs",
-              "RelativeDocumentMoniker": "API\\Migrations\\20260105155228_AuditandAdmin.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Migrations\\20260105155228_AuditandAdmin.cs",
-              "RelativeToolTip": "API\\Migrations\\20260105155228_AuditandAdmin.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T15:52:28.659Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "dbo.AspNetUserRoles.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/RUSTAMH_SQLEXPRESS/JWTRBAC/True/SqlTable/dbo.AspNetUserRoles.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/RUSTAMH_SQLEXPRESS/JWTRBAC/True/SqlTable/dbo.AspNetUserRoles.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-01-05T15:53:16.728Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UpdateUserDTO.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\JWT RBAC\\API\\DTOs\\UpdateUserDTO.cs",
-              "RelativeDocumentMoniker": "API\\DTOs\\UpdateUserDTO.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\JWT RBAC\\API\\DTOs\\UpdateUserDTO.cs",
-              "RelativeToolTip": "API\\DTOs\\UpdateUserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T14:47:15.119Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "RegisterDTO.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\JWT RBAC\\API\\DTOs\\RegisterDTO.cs",
-              "RelativeDocumentMoniker": "API\\DTOs\\RegisterDTO.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\JWT RBAC\\API\\DTOs\\RegisterDTO.cs",
-              "RelativeToolTip": "API\\DTOs\\RegisterDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T14:13:56.807Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CreateUserDTO.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\JWT RBAC\\API\\DTOs\\CreateUserDTO.cs",
-              "RelativeDocumentMoniker": "API\\DTOs\\CreateUserDTO.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\JWT RBAC\\API\\DTOs\\CreateUserDTO.cs",
-              "RelativeToolTip": "API\\DTOs\\CreateUserDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-05T14:18:59.022Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Services\\InternalServices\\TokenService.cs",
-              "RelativeDocumentMoniker": "API\\Services\\InternalServices\\TokenService.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Services\\InternalServices\\TokenService.cs",
-              "RelativeToolTip": "API\\Services\\InternalServices\\TokenService.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T10:54:16.743Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\JWT RBAC\\API\\appsettings.json",
-              "RelativeDocumentMoniker": "API\\appsettings.json",
-              "ToolTip": "D:\\.NET PROJECTS\\JWT RBAC\\API\\appsettings.json",
-              "RelativeToolTip": "API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-04T09:40:45.111Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "LoginVM.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\JWT RBAC\\API\\ViewModels\\LoginVM.cs",
-              "RelativeDocumentMoniker": "API\\ViewModels\\LoginVM.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\JWT RBAC\\API\\ViewModels\\LoginVM.cs",
-              "RelativeToolTip": "API\\ViewModels\\LoginVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T10:52:42.869Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "20260102174836_first.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Migrations\\20260102174836_first.cs",
-              "RelativeDocumentMoniker": "API\\Migrations\\20260102174836_first.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Migrations\\20260102174836_first.cs",
-              "RelativeToolTip": "API\\Migrations\\20260102174836_first.cs",
-              "ViewState": "AgIAAN8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T17:48:37.127Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "TokenCredentials.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Models\\TokenCredentials.cs",
-              "RelativeDocumentMoniker": "API\\Models\\TokenCredentials.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Models\\TokenCredentials.cs",
-              "RelativeToolTip": "API\\Models\\TokenCredentials.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T11:45:43.695Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-02T12:40:25.775Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Error.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Models\\Error.cs",
-              "RelativeDocumentMoniker": "API\\Models\\Error.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Models\\Error.cs",
-              "RelativeToolTip": "API\\Models\\Error.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T11:39:29.007Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Result.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Models\\Result.cs",
-              "RelativeDocumentMoniker": "API\\Models\\Result.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Models\\Result.cs",
-              "RelativeToolTip": "API\\Models\\Result.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAwDIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T11:39:35.116Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Services\\ExternalServices\\EmailService.cs",
-              "RelativeDocumentMoniker": "API\\Services\\ExternalServices\\EmailService.cs",
-              "ToolTip": "D:\\.NET PROJECTS\\JWT RBAC\\API\\Services\\ExternalServices\\EmailService.cs",
-              "RelativeToolTip": "API\\Services\\ExternalServices\\EmailService.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAIwAIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T10:54:05.889Z"
             }
           ]
         }

@@ -5340,11 +5340,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NET PROJECTS\\JWT RBAC\\API\\API.csproj",
+      "projectUniqueName": "D:\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\.NET PROJECTS\\JWT RBAC\\API\\API.csproj",
+      "projectPath": "D:\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\API\\API.csproj",
       "packagesPath": "C:\\Users\\RustamHasanli\\.nuget\\packages\\",
-      "outputPath": "D:\\.NET PROJECTS\\JWT RBAC\\API\\obj\\",
+      "outputPath": "D:\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

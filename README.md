@@ -14,6 +14,20 @@ Security: Password hashing, token validation middleware, and secure claim storag
 
 Audit Logging: Automatic tracking of user actions using IHttpContextAccessor.
 
+Contact Form Endpoint
+Accepts name, email, subject, and message from the frontend.
+
+Send Email to Admins
+Sends a formatted email notification to one or more administrator addresses.
+
+Validation & Sanitization
+Uses model validation to ensure safe and well-formed input.
+
+Sends a confirmation email back to the user
+
+Rate-limits submissions per IP to prevent spam/abuse
+
+
 🏗️ Architecture & Patterns
 This project follows a decoupled approach to ensure scalability and maintainability:
 

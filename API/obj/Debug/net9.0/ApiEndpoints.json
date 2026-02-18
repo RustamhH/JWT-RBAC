@@ -165,6 +165,22 @@
   },
   {
     "ContainingType": "API.Controllers.UserController",
+    "Method": "SendContactEmail",
+    "RelativePath": "api/User/SendContactEmail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sendContactEmailDTO",
+        "Type": "API.DTOs.SendContactEmailDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.UserController",
     "Method": "UpdateProfile",
     "RelativePath": "api/User/UpdateProfile",
     "HttpMethod": "PUT",
