@@ -45,7 +45,8 @@ namespace API.Controllers
 
         public async Task<IActionResult> SendContactEmail([FromBody] SendContactEmailDTO sendContactEmailDTO)
         {
-            var result=await _userService.SendContactEmail(sendContactEmailDTO);
+            if (!ModelState.IsValid) return BadRequest(ModelState);
+            var result =await _userService.SendContactEmail(sendContactEmailDTO);
             return result.IsSuccess ? Ok() : BadRequest(result.Error);
         }
 

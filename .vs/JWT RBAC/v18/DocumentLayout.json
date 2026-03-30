@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Rustam.Hasanli\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\rustam.hasanli\\coding proyektler\\.net projects\\jwt rbac\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\rustam.hasanli\\coding proyektler\\.net projects\\jwt rbac\\api\\services\\internalservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\services\\internalservices\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\rustam.hasanli\\coding proyektler\\.net projects\\jwt rbac\\api\\dtos\\sendcontactemaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\dtos\\sendcontactemaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\rustam.hasanli\\coding proyektler\\.net projects\\jwt rbac\\api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\rustam.hasanli\\coding proyektler\\.net projects\\jwt rbac\\api\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\rustam.hasanli\\coding proyektler\\.net projects\\jwt rbac\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|d:\\rustam.hasanli\\coding proyektler\\.net projects\\jwt rbac\\api\\services\\externalservices\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3AA206-2A7F-446F-88C4-E905D6588175}|API\\API.csproj|solutionrelative:api\\services\\externalservices\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Rustam.Hasanli\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\API\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "API\\DependencyInjection.cs",
+              "ToolTip": "D:\\Rustam.Hasanli\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\API\\DependencyInjection.cs",
+              "RelativeToolTip": "API\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T19:33:19.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Rustam.Hasanli\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\API\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "API\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\Rustam.Hasanli\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\API\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "API\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T19:33:19.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Rustam.Hasanli\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Rustam.Hasanli\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwC8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T19:33:19.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SendContactEmailDTO.cs",
+              "DocumentMoniker": "D:\\Rustam.Hasanli\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\API\\DTOs\\SendContactEmailDTO.cs",
+              "RelativeDocumentMoniker": "API\\DTOs\\SendContactEmailDTO.cs",
+              "ToolTip": "D:\\Rustam.Hasanli\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\API\\DTOs\\SendContactEmailDTO.cs",
+              "RelativeToolTip": "API\\DTOs\\SendContactEmailDTO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T19:33:19.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "D:\\Rustam.Hasanli\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\API\\Services\\ExternalServices\\EmailService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\ExternalServices\\EmailService.cs",
+              "ToolTip": "D:\\Rustam.Hasanli\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\API\\Services\\ExternalServices\\EmailService.cs",
+              "RelativeToolTip": "API\\Services\\ExternalServices\\EmailService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADgvysAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T19:33:19.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Rustam.Hasanli\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\API\\Services\\InternalServices\\UserService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\InternalServices\\UserService.cs",
+              "ToolTip": "D:\\Rustam.Hasanli\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\API\\Services\\InternalServices\\UserService.cs",
+              "RelativeToolTip": "API\\Services\\InternalServices\\UserService.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAUwBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T19:33:19.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Rustam.Hasanli\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "D:\\Rustam.Hasanli\\CODING PROYEKTLER\\.NET PROJECTS\\JWT RBAC\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAF0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T19:33:19.508Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
